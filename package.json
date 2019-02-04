@@ -1,0 +1,22 @@
+{
+  "name": "expressjsintroduction",
+  "version": "1.0.0",
+  "description": "ExpressJSIntroduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilmiraditya/ExpressJSIntroduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilmiraditya/ExpressJSIntroduction/issues"
+  },
+  "homepage": "https://github.com/hilmiraditya/ExpressJSIntroduction#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
